@@ -1,5 +1,5 @@
 # Pacman
-This is the complete code for a famous game called PACMAN using Python.
+This is the complete code for a famous game called PACMAN using Python took help from GEEKS FOR GEEKS.
 
 ![image](https://user-images.githubusercontent.com/94488557/190840594-49add01a-6434-4858-941e-3e86e2427333.png)
 
